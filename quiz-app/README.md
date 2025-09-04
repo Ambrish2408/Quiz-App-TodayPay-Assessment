@@ -115,6 +115,17 @@ You can load questions either from the **Open Trivia DB API** or a local JSON fi
 
 ## 📸 Screenshots 
 
+
+<img width="1908" height="725" alt="image" src="https://github.com/user-attachments/assets/cc7f463f-bcfd-48e0-b6ac-bfa047d1b867" />
+<img width="1911" height="686" alt="image" src="https://github.com/user-attachments/assets/c64c511e-66cc-40b6-a74c-b80666e85211" />
+<img width="1910" height="761" alt="image" src="https://github.com/user-attachments/assets/78206784-9de4-43a9-96d8-562c0e860170" />
+<img width="1902" height="852" alt="image" src="https://github.com/user-attachments/assets/fdecf066-9b60-4a6a-a090-d512e316125b" />
+<img width="1907" height="745" alt="image" src="https://github.com/user-attachments/assets/10a9ff5a-53fe-4809-8357-b26a1c3b6470" />
+
+
+
+
+
 ## ▶️ Demo Vedio
 ---
 
