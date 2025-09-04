@@ -1,0 +1,79 @@
+[
+  {
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of France?",
+    "correct_answer": "Paris",
+    "incorrect_answers": [
+      "Lyon",
+      "Marseille",
+      "Nice"
+    ]
+  },
+  {
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which language runs in a web browser?",
+    "correct_answer": "JavaScript",
+    "incorrect_answers": [
+      "C",
+      "Java",
+      "Python"
+    ]
+  },
+  {
+    "category": "Art",
+    "difficulty": "easy",
+    "question": "Who painted the Mona Lisa?",
+    "correct_answer": "Leonardo da Vinci",
+    "incorrect_answers": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Michelangelo"
+    ]
+  },
+  {
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is the smallest prime number?",
+    "correct_answer": "2",
+    "incorrect_answers": [
+      "0",
+      "1",
+      "3"
+    ]
+  },
+  {
+    "category": "Space",
+    "difficulty": "easy",
+    "question": "Which planet is known as the Red Planet?",
+    "correct_answer": "Mars",
+    "incorrect_answers": [
+      "Jupiter",
+      "Saturn",
+      "Venus"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which element has the chemical symbol 'Fe'?",
+    "correct_answer": "Iron",
+    "incorrect_answers": [
+      "Fluorine",
+      "Francium",
+      "Fermium"
+    ]
+  },
+  {
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "What particle mediates the strong nuclear force?",
+    "correct_answer": "Gluon",
+    "incorrect_answers": [
+      "Photon",
+      "Graviton",
+      "W boson"
+    ]
+  }
+]
